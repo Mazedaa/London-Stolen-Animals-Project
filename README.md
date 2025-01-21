@@ -54,3 +54,9 @@ These findings provide a basis for public awareness initiatives, enhanced law en
 1. Recovery rates are based on reported cases and may not reflect actual recoveries, as many thefts might go unreported, or animals may not be identifiable.
 2. Offense types are categorized based on police data, but there may be nuances or unreported factors influencing the nature of thefts that aren’t captured in the official data.
 3. This analysis primarily focuses on quantitative data and does not account for qualitative factors like pet owner behavior, socio-economic conditions, or law enforcement strategies.
+
+## Link to Resources
+- See the original dataset: original_stolen_animals.xlsx - MPS Stolen animals data.csv 
+- See my cleaning, analysis, and pivot tables: clean_stolen_animals.xlsx
+- See my SQL queries: StolenAnimals.sql
+- See my Tableau dashboard: TableauDashboard.png
