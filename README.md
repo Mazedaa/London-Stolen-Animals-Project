@@ -57,7 +57,8 @@ These findings provide a basis for public awareness initiatives, enhanced law en
 
 ## Resources
 - See the [original dataset](https://github.com/Mazedaa/London-Stolen-Animals-Project/blob/main/original_stolen_animals.xlsx%20-%20MPS%20Stolen%20animals%20data.csv) 
-- See my cleaning, analysis, and pivot tables: clean_stolen_animals.xlsx
-- See my Google Sheet dashboard: GoogleSheetDashboard.png 
-- See my SQL queries: StolenAnimals.sql
-- See my Tableau dashboard: TableauDashboard.png
+- See [my cleaning, analysis, and pivot tables](https://github.com/Mazedaa/London-Stolen-Animals-Project/blob/main/clean_stolen_animals.xlsx) 
+- See [my Google Sheet dashboard](https://github.com/Mazedaa/London-Stolen-Animals-Project/blob/main/GoogleSheetDashboard.png)
+- See [my SQL queries](https://github.com/Mazedaa/London-Stolen-Animals-Project/blob/main/StolenAnimals.sql)
+- See [my Tableau dashboard](https://github.com/Mazedaa/London-Stolen-Animals-Project/blob/main/TableauDashboard.png)
+
