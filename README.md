@@ -8,7 +8,9 @@ As a Data Analyst focusing on crime trends in London, I analyzed Metropolitan Po
 The objective of this analysis was to transform raw data into actionable insights that can help improve public awareness, assist law enforcement in refining recovery strategies, and support community-based prevention initiatives. 
 
 ## Executive Summary
-This analysis sheds light on trends in animal thefts across London, including hotspots, commonly stolen animals, offense types, and recovery rates. From over 14 years of data, significant trends emerged:
+This analysis sheds light on trends in animal thefts across London, including hotspots, commonly stolen animals, offense types, and recovery rates. 
+
+From over 13 years of data, significant trends emerged:
   - A steady increase in thefts, with a sharp rise in 2022 due to a major incident involving the theft of 1,206 fish in Barking and Dagenham.
   - Dogs are the most commonly stolen animal, particularly in boroughs like Croydon and Lambeth.
   - Recovery rates remain low (6.15%), highlighting the need for improved strategies. 
