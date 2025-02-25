@@ -1,7 +1,11 @@
 # London Stolen Animals Project
 
 ## Project Background
-As a Data Analyst focusing on crime trends in London, I analyzed Metropolitan Police Service (MPS) data to identify patterns in stolen animal incidents from 2010 to 2023. The dataset includes details on the date of the crime, the borough in which the theft occurred, the type of animal stolen, the associated offense type, the recovery status of the animal, and the number of animals involved in each theft. The objective of this analysis was to transform raw data into actionable insights that can help improve public awareness, assist law enforcement in refining recovery strategies, and support community-based prevention initiatives. 
+As a Data Analyst focusing on crime trends in London, I analyzed Metropolitan Police Service (MPS) data to identify patterns in stolen animal incidents from 2010 to 2023. The dataset includes details on the date of the crime, the borough in which the theft occurred, the type of animal stolen, the associated offense type, the recovery status of the animal, and the number of animals involved in each theft. 
+
+![London Stolen Animals](https://github.com/Mazedaa/London-Stolen-Animals-Project/blob/main/StolenAnimalDashboards/lostAnimal.jpg)
+
+The objective of this analysis was to transform raw data into actionable insights that can help improve public awareness, assist law enforcement in refining recovery strategies, and support community-based prevention initiatives. 
 
 ## Executive Summary
 This analysis sheds light on trends in animal thefts across London, including hotspots, commonly stolen animals, offense types, and recovery rates. From over 14 years of data, significant trends emerged:
