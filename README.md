@@ -61,7 +61,7 @@ Animal thefts are higher in outer London than in central London, where more pet 
 
 #### 3. Prevent Burglary-Related Thefts: Promoting home security measures like cameras and motion-sensitive lighting while strengthening partnerships with community watch programs to enhance neighbourhood vigilance.
 
-![Recovery](https://github.com/Mazedaa/London-Stolen-Animals-Project/blob/main/StolenAnimalDashboards/detectiveAnimal.jpg)
+![Recovery](https://github.com/Mazedaa/London-Stolen-Animals-Project/blob/main/StolenAnimalDashboards/detective.png)
 
 ## Key Questions for Stakeholders
 #####   - Should we prioritize high-theft boroughs, or focus on areas with low recovery rates to maximize the impact of prevention strategies?
