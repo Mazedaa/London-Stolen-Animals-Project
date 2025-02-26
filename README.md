@@ -1,11 +1,11 @@
 # London Stolen Animals Project
 
 ## Project Background
-As a Data Analyst focusing on crime trends in London, I analyzed Metropolitan Police Service (MPS) data to identify patterns in stolen animal incidents from 2010 to 2023. The dataset includes details on the date of the crime, the borough in which the theft occurred, the type of animal stolen, the associated offense type, the recovery status of the animal, and the number of animals involved in each theft. 
+#### As a Data Analyst focusing on crime trends in London, I analyzed Metropolitan Police Service (MPS) data to identify patterns in stolen animal incidents from 2010 to 2023. The dataset includes details on the date of the crime, the borough in which the theft occurred, the type of animal stolen, the associated offense type, the recovery status of the animal, and the number of animals involved in each theft. 
 
 ![London Stolen Animals](https://github.com/Mazedaa/London-Stolen-Animals-Project/blob/main/StolenAnimalDashboards/lostAnimal.jpg)
 
-The objective of this analysis was to transform raw data into actionable insights that can help improve public awareness, assist law enforcement in refining recovery strategies, and support community-based prevention initiatives. 
+#### The objective of this analysis was to transform  data into actionable insights that can help improve public awareness, assist law enforcement in refining recovery strategies, and support community-based prevention initiatives. 
 
 ## Executive Summary
 This analysis sheds light on trends in animal thefts across London, including hotspots, commonly stolen animals, offense types, and recovery rates. 
@@ -55,21 +55,23 @@ Animal thefts are higher in outer London than in central London, where more pet 
 ![Recovery](https://github.com/Mazedaa/London-Stolen-Animals-Project/blob/main/StolenAnimalDashboards/recovered.png)
 
 ## Recommendations
-### 1. Enhance Public Awareness Campaigns: Targeted awareness campaigns in high-risk boroughs like Barking and Dagenham and Croydon should educate pet owners on theft prevention, promote microchipping, emphasise outdoor pet security, and encourage immediate theft reporting.
+#### 1. Enhance Public Awareness Campaigns: Targeted awareness campaigns in high-risk boroughs like Barking and Dagenham and Croydon should educate pet owners on theft prevention, promote microchipping, emphasise outdoor pet security, and encourage immediate theft reporting.
 
-### 2. Improve Recovery Rates: Enforcing microchipping laws, increasing compliance, and strengthening collaboration between pet rescue organisations and law enforcement for better tracking and recovery.
+#### 2. Improve Recovery Rates: Enforcing microchipping laws, increasing compliance, and strengthening collaboration between pet rescue organisations and law enforcement for better tracking and recovery.
 
-### 3. Prevent Burglary-Related Thefts: Promoting home security measures like cameras and motion-sensitive lighting while strengthening partnerships with community watch programs to enhance neighbourhood vigilance.
+#### 3. Prevent Burglary-Related Thefts: Promoting home security measures like cameras and motion-sensitive lighting while strengthening partnerships with community watch programs to enhance neighbourhood vigilance.
+
+![Recovery](https://github.com/Mazedaa/London-Stolen-Animals-Project/blob/main/StolenAnimalDashboards/detectiveAnimal.jpg)
 
 ## Key Questions for Stakeholders
-1. Public Awareness Campaigns: Should we prioritize high-theft boroughs, or focus on areas with low recovery rates to maximize the impact of prevention strategies?
-2. Recovery Rate Improvement: What resources are available to enhance the recovery of stolen animals? Are there opportunities for better tracking systems, such as databases for stolen pets?
-3. Burglary-Related Thefts: Given the distinct patterns of burglary-related thefts, should these be treated as a separate priority within law enforcement efforts?
+#####   - Should we prioritize high-theft boroughs, or focus on areas with low recovery rates to maximize the impact of prevention strategies?
+#####   - What resources are available to enhance the recovery of stolen animals? Are there opportunities for better tracking systems, such as databases for stolen pets?
+#####   - Given the distinct patterns of burglary-related thefts, should these be treated as a separate priority within law enforcement efforts?
 
 ## Assumptions and Caveats
-1. Recovery rates are based on reported cases and may not reflect actual recoveries, as many thefts might go unreported, or animals may not be identifiable.
-2. Offense types are categorized based on police data, but there may be nuances or unreported factors influencing the nature of thefts that aren’t captured in the official data.
-3. This analysis primarily focuses on quantitative data and does not account for qualitative factors like pet owner behavior, socio-economic conditions, or law enforcement strategies.
+##### 1. Recovery rates are based on reported cases and may not reflect actual recoveries, as many thefts might go unreported, or animals may not be identifiable.
+##### 2. Offence types are categorized based on police data, but there may be nuances or unreported factors influencing the nature of thefts that aren’t captured in the official data.
+##### 3. This analysis primarily focuses on quantitative data and does not account for qualitative factors like pet owner behavior, socio-economic conditions, or law enforcement strategies.
 
 ## Resources
 - See the [original dataset](https://github.com/Mazedaa/London-Stolen-Animals-Project/blob/main/original_stolen_animals.xlsx%20-%20MPS%20Stolen%20animals%20data.csv) 
