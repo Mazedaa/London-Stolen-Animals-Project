@@ -11,9 +11,9 @@ From over 13 years of data, significant trends emerged:
   - Dogs are the most commonly stolen animal, particularly in boroughs like Croydon and Lambeth.
   - Recovery rates remain low (6.15%), highlighting the need for improved strategies. 
 
-These findings provide a basis for public awareness initiatives, enhanced law enforcement focus, and community education to reduce animal thefts and increase recovery rates.
-
 ![Tableau Dashboard - London Stolen Animals](https://github.com/Mazedaa/London-Stolen-Animals-Project/blob/main/TableauDashboard.png)
+
+These findings provide a basis for public awareness initiatives, enhanced law enforcement focus, and community education to reduce animal thefts and increase recovery rates.
 
 ## Insights Deep-Dive
 ### Trends in Stolen Animal Incidents
@@ -57,17 +57,18 @@ Animal thefts are higher in outer London than in central London, where more pet 
 
 #### 3. Prevent Burglary-Related Thefts: Promoting home security measures like cameras and motion-sensitive lighting while strengthening partnerships with community watch programs to enhance neighbourhood vigilance.
 
+
 ![Recovery](https://github.com/Mazedaa/London-Stolen-Animals-Project/blob/main/StolenAnimalDashboards/detective.png)
 
 ## Key Questions for Stakeholders
-#####   - Should we prioritize high-theft boroughs, or focus on areas with low recovery rates to maximize the impact of prevention strategies?
-#####   - What resources are available to enhance the recovery of stolen animals? Are there opportunities for better tracking systems, such as databases for stolen pets?
-#####   - Given the distinct patterns of burglary-related thefts, should these be treated as a separate priority within law enforcement efforts?
+  - Should we prioritize high-theft boroughs, or focus on areas with low recovery rates to maximize the impact of prevention strategies?
+  - What resources are available to enhance the recovery of stolen animals? Are there opportunities for better tracking systems, such as databases for stolen pets?
+  - Given the distinct patterns of burglary-related thefts, should these be treated as a separate priority within law enforcement efforts?
 
 ## Assumptions and Caveats
-##### 1. Recovery rates are based on reported cases and may not reflect actual recoveries, as many thefts might go unreported, or animals may not be identifiable.
-##### 2. Offence types are categorized based on police data, but there may be nuances or unreported factors influencing the nature of thefts that aren’t captured in the official data.
-##### 3. This analysis primarily focuses on quantitative data and does not account for qualitative factors like pet owner behavior, socio-economic conditions, or law enforcement strategies.
+  1. Recovery rates are based on reported cases and may not reflect actual recoveries, as many thefts might go unreported, or animals may not be identifiable.
+  2. Offence types are categorized based on police data, but there may be nuances or unreported factors influencing the nature of thefts that aren’t captured in the official data.
+  3. This analysis primarily focuses on quantitative data and does not account for qualitative factors like pet owner behavior, socio-economic conditions, or law enforcement strategies.
 
 ## Resources
 - See the [original dataset](https://github.com/Mazedaa/London-Stolen-Animals-Project/blob/main/original_stolen_animals.xlsx%20-%20MPS%20Stolen%20animals%20data.csv) 
