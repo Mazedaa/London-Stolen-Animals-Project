@@ -21,51 +21,45 @@ These findings provide a basis for public awareness initiatives, enhanced law en
 
 ## Insights Deep-Dive
 ### Trends in Stolen Animal Incidents
-  - Animal thefts grew significantly from 612 incidents in 2020 to 1027 incidents in 2021 to 1,713 in 2022.
-    Notably, April 2022 saw the highest spike, driven by the theft of 1,206 fish in Barking and Dagenham.
-  - A clear increase in thefts over the past few years, particularly in the post-pandemic period.
-  - Seasonal trends emerged, with thefts peaking in March (4 times) and October (2 times), suggesting that certain times of year experience higher rates of theft.
+  - Since 2013, stolen animal cases dropped from 799 to 427 in 2016, fluctuated between 628 and 612 (2017–2020), then surged to 1,027 in 2021 and 1,713 in 2022 before falling to 654 in 2023.
+  - Thefts spiked from 612 in 2020 to 1,713 in 2022, with April 2022 seeing the highest jump due to the theft of 1,206 fish in Barking and Dagenham.
+  - Seasonal patterns show thefts peaking in March (4 times) and October (2 times), indicating higher risks in these months.
 
 ![Trend Over Time](https://github.com/Mazedaa/London-Stolen-Animals-Project/blob/main/StolenAnimalDashboards/trend.png)
 
 ### Theft Hotspots
-  - Boroughs with the highest theft rates: Barking and Dagenham, Hillingdon, Croydon, Bromley.
+Boroughs with the highest theft rates:
+- - Barking and Dagenham, Hillingdon, Croydon, Bromley, Enfield
 
-In these areas, pet owners are more likely to live in houses with gardens rather than apartments, which means pets are often left unsupervised outdoors, increasing their vulnerability to theft.
+Animal thefts are higher in outer London than in central London, where more pet owners live in houses with gardens, leaving pets unsupervised outdoors and more vulnerable to theft.
 
 ![Boroughs](https://github.com/Mazedaa/London-Stolen-Animals-Project/blob/main/StolenAnimalDashboards/borough.png)
 
 ### Commonly Stolen Animal Types
-  - Dogs are the most frequently stolen animals, especially in Croydon and Lambeth, where pet ownership is high.
-  - Dogs, Fish and Bird accumularte 82% of stolen animals, followed by another 10% being cat, with rest being mammals(excl dogs & cats), reptile, insects, arachnid, rabbit and amphibian.
-  - Fish and birds are often stolen during burglaries, particularly in larger quantities, due to their accessibility and the difficulty in identifying stolen animals in these categories.
+  - Dogs are the most common stolen animal
+  - Dogs, Fish, Bird and Cats accumulate 92% of stolen animals
 
 ![Animal Tyoe](https://github.com/Mazedaa/London-Stolen-Animals-Project/blob/main/StolenAnimalDashboards/animalType.png)
 
 ### Offence Types
-  - Theft and handling and Burglary accumulate to 95% of the offense type
-  - For dogs, the most common offense types are Theft and Handling, reflecting opportunistic thefts.
-  - Burglary is the primary offense for the theft of fish and birds, which are typically stolen during home invasions or burglaries, often involving multiple animals at once.
+  - Theft and handling and Burglary accumulate to 95% of the offence type.
+  - For dogs, the most common offence types are Theft and Handling
+  - Burglary is the primary offence for the theft of fish and birds
 
 ![Offence Type](https://github.com/Mazedaa/London-Stolen-Animals-Project/blob/main/StolenAnimalDashboards/offenceType.png)
 
 ###  Recovery Rates
-  - Only 6.15% of stolen animals are recovered, indicating significant challenges in tracing and recovering stolen pets.
-  - Dogs show the highest recovery rate (12%), while other animals like fish and birds have very low recovery rates, likely due to difficulties in identification, lack of tracking systems, and delays in reporting.
-  - A lack of widespread microchipping and public awareness of reporting stolen pets promptly contributes to the low recovery rates.
+  - Only 6.15% of stolen animals are recovered.
+  - Dogs show the highest recovery rate (12%), while other animals like fish and birds have very low recovery rates.
 
 ![Recovery](https://github.com/Mazedaa/London-Stolen-Animals-Project/blob/main/StolenAnimalDashboards/recovered.png)
 
 ## Recommendations
-### 1. Enhance Public Awareness Campaigns:
-  - Targeted campaigns should be launched in high-risk boroughs, such as Barking and Dagenham and Croydon, to educate pet owners about theft prevention.
-  - Promote microchipping and stress the importance of securing pets in outdoor areas and reporting thefts immediately.
-### 2. Improve Recovery Rates:
-  - Increase microchipping compliance and ensure that registration laws are enforced more strictly.
-  - Collaborate with pet rescue organizations and law enforcement to improve tracking and recovery efforts.
-### 3. Prevent Burglary-Related Thefts:
-  - Encourage the use of home security systems like cameras, motion-sensitive lighting, and reinforced entry points in theft-prone areas.
-  - Strengthen partnerships with community watch programs to keep neighborhoods vigilant about potential thefts.
+### 1. Enhance Public Awareness Campaigns: Targeted awareness campaigns in high-risk boroughs like Barking and Dagenham and Croydon should educate pet owners on theft prevention, promote microchipping, emphasise outdoor pet security, and encourage immediate theft reporting.
+
+### 2. Improve Recovery Rates: Enforcing microchipping laws, increasing compliance, and strengthening collaboration between pet rescue organisations and law enforcement for better tracking and recovery.
+
+### 3. Prevent Burglary-Related Thefts: Promoting home security measures like cameras and motion-sensitive lighting while strengthening partnerships with community watch programs to enhance neighbourhood vigilance.
 
 ## Key Questions for Stakeholders
 1. Public Awareness Campaigns: Should we prioritize high-theft boroughs, or focus on areas with low recovery rates to maximize the impact of prevention strategies?
