@@ -75,5 +75,5 @@ Animal thefts are higher in outer London than in central London, where more pet 
 - See [my cleaning, analysis, and pivot tables](https://github.com/Mazedaa/London-Stolen-Animals-Project/blob/main/clean_stolen_animals.xlsx) 
 - See [my Google Sheet dashboard](https://github.com/Mazedaa/London-Stolen-Animals-Project/blob/main/GoogleSheetDashboard.png)
 - See [my SQL queries](https://github.com/Mazedaa/London-Stolen-Animals-Project/blob/main/StolenAnimals.sql)
-- See [my Tableau dashboard](https://public.tableau.com/app/profile/mazeda5979/vizzes)
+- See [my Tableau dashboard](https://public.tableau.com/app/profile/mazeda5979/viz/StolenAnimals/Dashboard1)
 
